@@ -1,0 +1,2 @@
+# consumesnitch
+visualize consume expenditures
