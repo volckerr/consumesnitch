@@ -6,15 +6,16 @@ wowcombatlog -> summarizeconsumes -> consumesnitch
 Reads in a text file called, and prints out several barcharts of each players consume use
 
 Structure of file is:
-    helers - standard use of helper functions
+    helpers - standard use of helper functions
     snitch functions - parses logs
     plots - plots data
 
-    each plot uses a snitch function to parse the log data
+each plot uses a snitch function to parse the log data
 
 
 example summary.txt file
-!!! note: the extra enemies and data must be removed from the log file
+
+note: the extra enemies and data must be removed from the log file
 
 Aeteis deaths:5
    Fire Protection 5 
