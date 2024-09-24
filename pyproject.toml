@@ -1,0 +1,17 @@
+[project]
+name = "consumesnitch"
+version = "0.1.0"
+description = "Default template for PDM package"
+authors = [
+    {name = "volckerr", email = "volckerr@users.noreply.github.com"},
+]
+dependencies = [
+    "matplotlib>=3.9.2",
+]
+requires-python = "==3.11.*"
+readme = "README.md"
+license = {text = "MIT"}
+
+
+[tool.pdm]
+distribution = false
